@@ -24,6 +24,9 @@ Parts List
 ([datasheet from TI]((https://www.ti.com/lit/ds/symlink/lm2937.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1635103661151)))
 * MOSFET - transistor used as a switch to control the voltage level going from the battery to
 the blanket
+* waterproof cables ((adafruit)[https://www.adafruit.com/product/743])
+* waterproof plastic enclosure ((adafruit[https://www.adafruit.com/product/903]))
+* lots of 22 guage wire
 * 10k resistor - wired from the Gate to the Source on the MOSFET (as recommended by the spec sheet)
 * 10uF capacitor - wired from the voltage regulator output to ground (as recommended by the spec sheet)
 * 0.1uF capacitor - wired from the voltage regulator input to ground (as recommended by the spec sheet)
